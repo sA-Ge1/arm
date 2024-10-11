@@ -1,0 +1,43 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sage/arm/build/robotic_arm
+-- Install configuration: ""
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/urdf
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/urdf/robotic_arm.urdf
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/wrist_link.STL
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/upper_arm_link.STL
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/base_link.STL
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/elbow_link.STL
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/ee_link.STL
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/shoulder_link.STL
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/launch
+-- Installing: /home/sage/arm/install/robotic_arm/share/ament_index/resource_index/package_run_dependencies/robotic_arm
+-- Installing: /home/sage/arm/install/robotic_arm/share/ament_index/resource_index/parent_prefix_path/robotic_arm
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/environment/ament_prefix_path.sh
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/environment/ament_prefix_path.dsv
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/environment/path.sh
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/environment/path.dsv
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/local_setup.bash
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/local_setup.sh
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/local_setup.zsh
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/local_setup.dsv
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/package.dsv
+-- Installing: /home/sage/arm/install/robotic_arm/share/ament_index/resource_index/packages/robotic_arm
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/cmake/robotic_armConfig.cmake
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/cmake/robotic_armConfig-version.cmake
+-- Installing: /home/sage/arm/install/robotic_arm/share/robotic_arm/package.xml

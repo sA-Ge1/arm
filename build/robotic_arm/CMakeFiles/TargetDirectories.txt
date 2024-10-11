@@ -1,0 +1,9 @@
+/home/sage/arm/build/robotic_arm/CMakeFiles/uninstall.dir
+/home/sage/arm/build/robotic_arm/CMakeFiles/robotic_arm_uninstall.dir
+/home/sage/arm/build/robotic_arm/CMakeFiles/test.dir
+/home/sage/arm/build/robotic_arm/CMakeFiles/edit_cache.dir
+/home/sage/arm/build/robotic_arm/CMakeFiles/rebuild_cache.dir
+/home/sage/arm/build/robotic_arm/CMakeFiles/list_install_components.dir
+/home/sage/arm/build/robotic_arm/CMakeFiles/install.dir
+/home/sage/arm/build/robotic_arm/CMakeFiles/install/local.dir
+/home/sage/arm/build/robotic_arm/CMakeFiles/install/strip.dir
