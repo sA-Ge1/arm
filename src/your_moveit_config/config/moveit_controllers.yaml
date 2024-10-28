@@ -9,6 +9,7 @@ moveit_simple_controller_manager:
   arm_controller:
     type: FollowJointTrajectory
     action_ns: follow_joint_trajectory
+    state_publish_rate: 10  
     default: true
     joints:
       - shoulder_joint
@@ -19,3 +20,5 @@ moveit_simple_controller_manager:
       - ee_rotation_joint_x
       - ee_rotation_joint_y
       - ee_rotation_joint_z
+    default_velocity_scaling_factor: 0.5  # Scale down to 10% of max velocity
+    default_acceleration_scaling_factor: 0.5  # Scale down to 10% of max acceleration

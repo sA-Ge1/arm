@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/urdf/robotic_arm.urdf
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/base_link.STL
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/ee_link.STL
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/elbow_link.STL
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/shoulder_link.STL
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/upper_arm_link.STL
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/meshes/wrist_link.STL
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/ament_index/resource_index/package_run_dependencies/robotic_arm
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/ament_index/resource_index/parent_prefix_path/robotic_arm
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/environment/path.sh
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/environment/path.dsv
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/local_setup.bash
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/local_setup.sh
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/local_setup.zsh
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/local_setup.dsv
+-- Symlinking: /home/sage/arm/install/robotic_arm/share/robotic_arm/package.dsv
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/ament_index/resource_index/packages/robotic_arm
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/cmake/robotic_armConfig.cmake
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/cmake/robotic_armConfig-version.cmake
+-- Up-to-date symlink: /home/sage/arm/install/robotic_arm/share/robotic_arm/package.xml
